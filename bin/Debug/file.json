@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 2,
+    "Client": "\u0413\u043B\u0430\u0448\u0430",
+    "Date": "2026-10-30T12:30:26.5432247+05:00",
+    "RoomNumber": 12,
+    "Services": [],
+    "BookingTotal": 0
+  },
+  {
+    "Id": 5,
+    "Client": "\u0412\u0438\u043A\u0430",
+    "Date": "2026-10-30T12:31:41.5808429+05:00",
+    "RoomNumber": 555,
+    "Services": [
+      {
+        "Name": "\u041F\u0420\u041E\u041B",
+        "Price": 100,
+        "Count": 2,
+        "ServiceTotal": 200
+      }
+    ],
+    "BookingTotal": 200
+  },
+  {
+    "Id": 56,
+    "Client": "\u041B\u0435\u0440\u0430",
+    "Date": "2026-10-30T13:38:44.8156769+05:00",
+    "RoomNumber": 123,
+    "Services": [
+      {
+        "Name": "\u041F\u0410\u0420\u041E",
+        "Price": 45,
+        "Count": 2,
+        "ServiceTotal": 90
+      },
+      {
+        "Name": "\u041F\u0418\u041E\u0420",
+        "Price": 345,
+        "Count": 4,
+        "ServiceTotal": 1380
+      }
+    ],
+    "BookingTotal": 1470
+  }
+]

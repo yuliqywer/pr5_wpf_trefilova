@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "jT2E4L1YeaNkBKPja/C4QUdVD54MQpD6YXnrWmq8CpouZnJTUH40NzDERDtK2JuCb+57eccof/hWteYsFoG6Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st310-05\\Desktop\\pr5\\pr5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st310-05\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\11.0.0-rc.3.26522.148\\microsoft.bcl.asyncinterfaces.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.io.pipelines\\11.0.0-rc.3.26522.148\\system.io.pipelines.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.numerics.vectors\\4.6.1\\system.numerics.vectors.4.6.1.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.text.encodings.web\\11.0.0-rc.3.26522.148\\system.text.encodings.web.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.text.json\\11.0.0-rc.3.26522.148\\system.text.json.11.0.0-rc.3.26522.148.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512",
+    "C:\\Users\\st310-05\\.nuget\\packages\\system.valuetuple\\4.6.2\\system.valuetuple.4.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

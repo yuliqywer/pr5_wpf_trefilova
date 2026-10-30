@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\pr5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|c:\\users\\st310-05\\desktop\\pr5\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\bookingformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:bookingformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|C:\\Users\\st310-05\\Desktop\\pr5\\bookingformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE5CB1-5F3E-47F9-8485-50BC4BA3E5A0}|pr5.csproj|solutionrelative:bookingformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonServer.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\JsonServer.cs",
+              "RelativeDocumentMoniker": "JsonServer.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\JsonServer.cs",
+              "RelativeToolTip": "JsonServer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:11:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\Booking.xaml.cs",
+              "RelativeDocumentMoniker": "Booking.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\Booking.xaml.cs",
+              "RelativeToolTip": "Booking.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:07:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\Booking.xaml",
+              "RelativeDocumentMoniker": "Booking.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\Booking.xaml",
+              "RelativeToolTip": "Booking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-30T07:02:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\ServiceModel.cs",
+              "RelativeDocumentMoniker": "ServiceModel.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\ServiceModel.cs",
+              "RelativeToolTip": "ServiceModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:02:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingModel.cs",
+              "RelativeDocumentMoniker": "BookingModel.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingModel.cs",
+              "RelativeToolTip": "BookingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:02:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingFormPage.xaml",
+              "RelativeDocumentMoniker": "BookingFormPage.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingFormPage.xaml",
+              "RelativeToolTip": "BookingFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-30T06:53:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "BookingFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\pr5\\BookingFormPage.xaml.cs",
+              "RelativeToolTip": "BookingFormPage.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAewGcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T06:40:37.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
